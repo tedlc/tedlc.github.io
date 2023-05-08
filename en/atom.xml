@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zhiyu Yuan&#39;s Thinking Cage</title>
+  
+  
+  <link href="https://yuanzhiy.com/en/atom.xml" rel="self"/>
+  
+  <link href="https://yuanzhiy.com/en/"/>
+  <updated>2023-05-08T09:39:41.524Z</updated>
+  <id>https://yuanzhiy.com/en/</id>
+  
+  <author>
+    <name>Zhiyu Yuan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://yuanzhiy.com/en/2023/05/08/test1/"/>
+    <id>https://yuanzhiy.com/en/2023/05/08/test1/</id>
+    <published>2023-05-08T09:39:31.602Z</published>
+    <updated>2023-05-08T09:39:41.524Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a test file for double-language.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;This is a test file for double-language.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
