@@ -6,7 +6,7 @@
   <link href="https://yuanzhiy.com/en/atom.xml" rel="self"/>
   
   <link href="https://yuanzhiy.com/en/"/>
-  <updated>2023-05-08T11:30:35.883Z</updated>
+  <updated>2023-05-08T11:33:45.812Z</updated>
   <id>https://yuanzhiy.com/en/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="https://yuanzhiy.com/en/2023/05/08/test1/"/>
     <id>https://yuanzhiy.com/en/2023/05/08/test1/</id>
     <published>2023-05-08T09:39:31.602Z</published>
-    <updated>2023-05-08T11:30:35.883Z</updated>
+    <updated>2023-05-08T11:33:45.812Z</updated>
     
-    <content type="html"><![CDATA[<p>This is a test file for double-language.</p><p>This is the second round testing.</p><p>Final!</p><p>agin</p>]]></content>
+    <content type="html"><![CDATA[<p>This is a test file for double-language.</p><p>This is the second round testing.</p><p>Wield bug after refreshing.</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;This is a test file for double-language.&lt;/p&gt;
 &lt;p&gt;This is the second round testing.&lt;/p&gt;
-&lt;p&gt;Final!&lt;/p&gt;
-&lt;p&gt;agin&lt;/p&gt;
+&lt;p&gt;Wield bug after refreshing.&lt;/p&gt;
 </summary>
       
     
