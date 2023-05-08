@@ -6,7 +6,7 @@
   <link href="https://yuanzhiy.com/atom.xml" rel="self"/>
   
   <link href="https://yuanzhiy.com/"/>
-  <updated>2023-05-08T11:41:16.779Z</updated>
+  <updated>2023-05-08T11:43:41.317Z</updated>
   <id>https://yuanzhiy.com/</id>
   
   <author>
@@ -21,19 +21,14 @@
     <link href="https://yuanzhiy.com/2023/05/08/test1/"/>
     <id>https://yuanzhiy.com/2023/05/08/test1/</id>
     <published>2023-05-08T09:39:31.602Z</published>
-    <updated>2023-05-08T11:41:16.779Z</updated>
+    <updated>2023-05-08T11:43:41.317Z</updated>
     
-    <content type="html"><![CDATA[<p>这是中文版站点，测试中</p><p>这是测试的第二轮</p><p>这是测试的第三轮</p><p>Offline测试</p><p>奇妙的bug</p><p>qwdqwd</p>]]></content>
+    <content type="html"><![CDATA[<p>这是中文版站点，测试中</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;这是中文版站点，测试中&lt;/p&gt;
-&lt;p&gt;这是测试的第二轮&lt;/p&gt;
-&lt;p&gt;这是测试的第三轮&lt;/p&gt;
-&lt;p&gt;Offline测试&lt;/p&gt;
-&lt;p&gt;奇妙的bug&lt;/p&gt;
-&lt;p&gt;qwdqwd&lt;/p&gt;
 </summary>
       
     
