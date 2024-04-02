@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tedlc.github.io/2023/04/25/master_application_2023/</loc>
+    
+    <lastmod>2024-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tedlc.github.io/2023/04/25/about_me/</loc>
     
     <lastmod>2024-04-02</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://tedlc.github.io/about/index.html</loc>
-    
-    <lastmod>2023-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tedlc.github.io/2023/04/25/master_application_2023/</loc>
     
     <lastmod>2023-05-09</lastmod>
     
